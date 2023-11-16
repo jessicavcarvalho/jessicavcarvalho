@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jéssica Carvalho 👋
 
 - 📍Sou brasileira e vivo desde 2017 em Portugal
-- 🌱 Atualmente decidi fazer transição para a área de Tecnologia e já estudei sobre Scrum, Análise de Dados, MySQL, Power BI
+- 🌱 Atualmente decidi fazer transição para a área de Tecnologia
 - 📫 Contate-me no e-mail: jessica.vasconcelos01@hotmail.com
 - 😄 Pronouns: ela/dela
 
